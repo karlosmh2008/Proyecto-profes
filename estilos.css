@@ -1,0 +1,28 @@
+body {
+     background-color: gold ;
+     color: blue ;
+     text-aling: center ;
+     font-family:arial,sans-serif;
+     font-size:20px;
+  }
+  
+header{
+      background-color: red;
+      border:3px solid black;}
+      padding-top:  50px;
+    margin: 30px;
+    }
+    
+    nav{background-color: yellow;
+        
+    }
+    .caja{background-color: brown;
+       color: pink;
+    }
+    footer{background-color:red;
+        
+    }
+    
+    #pie{
+    background-color: purple;
+    }
